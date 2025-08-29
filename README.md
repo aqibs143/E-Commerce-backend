@@ -16,7 +16,7 @@ It provides REST APIs for authentication, product management, orders, and users.
 
 ## 🖥️ Frontend Repository
 👉 The frontend (React) is available here:  
-[🔗 E-Commerce Frontend](https://github.com/aqibs143/E-Commerce-Frontend)
+[🔗 E-Commerce Frontend](https://github.com/aqibs143/E-Commerce)
 
 ---
 
